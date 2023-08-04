@@ -27,8 +27,8 @@ Once the application is up and running, you can access the exposed endpoints and
 
 The following endpoints are available for use:
 
-- Endpoint 1: Description of endpoint 1
-- Endpoint 2: Description of endpoint 2
+- Endpoint 1: http://localhost:8080/api/v1/city/search?q={city}
+- Endpoint 2: 
 
 ## How to Consume Endpoints
 
